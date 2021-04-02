@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.getitglory">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.GetItGlory">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".PhoneAuthActivity"/>
+        <activity android:name=".PhoneLogin"/>
+        <activity android:name=".EmailLogin"/>
+        <activity android:name=".GmailLogin"/>
+        <activity android:name=".Sign_up"/>
+
+        <meta-data
+            android:name="com.google.android.database.AIzaSyAzBFubEzZdWleKSgzz3Gh20oeKqiLiDBo"
+            android:value="AIzaSyAzBFubEzZdWleKSgzz3Gh20oeKqiLiDBo"/>
+    </application>
+
+</manifest>

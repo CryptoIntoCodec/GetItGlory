@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GetItGlory</string>
+    <string name="enter_your_phone_number">Enter your Phone Number</string>
+    <string name="enter_the_otp">Enter the OTP</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign-Up</string>
+    <string name="sign_up1">Sign-up</string>
+    <string name="login_using_gmail">Login Using Gmail</string>
+    <string name="login_using_email">Login Using Email</string>
+    <string name="login_using_phone">Login Using Phone</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="sign_in_using_google_mail">Sign-in Using Google mail</string>
+    <string name="sign_in">Sign-in</string>
+    <string name="sign_up2">Sign-up</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="password">Password</string>
+    <string name="sign_up3">Sign-up</string>
+    <string name="todo">TODO</string>
+    <string name="enter_your_email">Enter your Email</string>
+</resources>
